@@ -15,4 +15,6 @@ Hey! I'm a 4th-year Software Engineering student at Delhi Technological Universi
 ---
 [![](https://visitcount.itsvg.in/api?id=LoveeshSingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/LoveeshSingh/LoveeshSingh/output/snake.svg" alt="Snake animation" />
+
+###
