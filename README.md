@@ -1,8 +1,8 @@
-## 💫 About Me:
+# 💫 About Me:
 Hey! I'm a 4th-year Software Engineering student at Delhi Technological University, passionate about turning ideas into code and building useful, real-world applications.<br><br>💻 Currently diving deep into full-stack development, working on projects that blend Vue, Supabase, and real-time features.<br><br>🧠 Strong foundation in Java and Data Structures & Algorithms, with growing experience in Python and machine learning.<br><br>📚 Interested in empirical software engineering, green energy tech, and always on the lookout for new things to learn.<br><br>🚀 Aspiring full-stack dev who loves solving problems and building clean, scalable solutions.<br><br>🌱 I'm always open to collaborations, learning from others, and contributing to meaningful projects. Let’s build something awesome together!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/loveesh-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loveesh.20132@gmail.com) 
 
 # 💻 Tech Stack:
