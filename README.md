@@ -17,4 +17,5 @@ Hey! I'm a 4th-year Software Engineering student at Delhi Technological Universi
 
 <img src="https://raw.githubusercontent.com/LoveeshSingh/LoveeshSingh/output/snake.svg" alt="Snake animation" />
 
+  
 ###
