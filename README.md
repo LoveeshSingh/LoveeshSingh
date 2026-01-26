@@ -6,7 +6,7 @@ Passionate about turning ideas into code and building useful, real-world applica
 ---
 
 ## 💻 What I'm Working On
-- Enhancing my old **Bus Reservation System** 🚌 (initially a MySQL-based DBMS project) into a **full-fledged Java application**  
+- Learning Spring Boot hands on by working on a **Task Management System**
 - Developing **Menu Analyzer** 🍴 — an app that extracts dishes from menus and shows ratings, reviews, and summaries  
 - Continuously improving my problem-solving skills in **Java + DSA**, while exploring Python & ML  
 
@@ -22,10 +22,9 @@ Passionate about turning ideas into code and building useful, real-world applica
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Java, C++, C, Python, JavaScript  
-**Frontend:** React, Tailwind CSS  
-**Backend:** Node.js, Express
-**Databases:** MySQL, MongoDB  
+**Languages:** Java, C++, C, Python
+**Backend:** SpringBoot
+**Databases:** MySQL
 **Other Tools:** Git/GitHub, REST APIs, Power BI, basic ML  
 
 ---
