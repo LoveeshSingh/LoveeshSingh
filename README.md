@@ -22,10 +22,10 @@ Passionate about turning ideas into code and building useful, real-world applica
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Java, C++, C, Python
-**Backend:** SpringBoot
-**Databases:** MySQL
-**Other Tools:** Git/GitHub, REST APIs, Power BI, basic ML  
+ - **Languages:** Java, C++, C, Python
+ - **Backend:** SpringBoot
+ - **Databases:** MySQL
+ - **Other Tools:** Git/GitHub, REST APIs, Power BI, basic ML  
 
 ---
 
