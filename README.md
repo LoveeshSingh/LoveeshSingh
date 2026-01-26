@@ -50,7 +50,7 @@ Passionate about turning ideas into code and building useful, real-world applica
 ---
 [![](https://visitcount.itsvg.in/api?id=LoveeshSingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/LoveeshSingh/LoveeshSingh/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/LoveeshSingh/LoveeshSingh/output/snake.svg" alt="Snake animation" /> -->
 
   
 ###
