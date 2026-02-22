@@ -43,12 +43,6 @@ Passionate about turning ideas into code and building useful, real-world applica
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LoveeshSingh&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LoveeshSingh&theme=dark&hide_border=true)<br/>
----
-[![](https://visitcount.itsvg.in/api?id=LoveeshSingh&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- <img src="https://raw.githubusercontent.com/LoveeshSingh/LoveeshSingh/output/snake.svg" alt="Snake animation" /> -->
 
   
