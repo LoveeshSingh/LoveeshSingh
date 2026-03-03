@@ -6,9 +6,8 @@ Passionate about turning ideas into code and building useful, real-world applica
 ---
 
 ## 💻 What I'm Working On
-- Learning Spring Boot hands on by working on a **Task Management System**
-- Developing **Menu Analyzer** 🍴 — an app that extracts dishes from menus and shows ratings, reviews, and summaries  
-- Continuously improving my problem-solving skills in **Java + DSA**, while exploring Python & ML  
+- Developing **Menu Analyzer** 🍴 — an app that extracts dishes from menus and shows nutritional information, recipe, etc.
+- Continuously improving my problem-solving skills in **Java + DSA**, while exploring Python & Machine Learning  
 
 ---
 
@@ -25,7 +24,7 @@ Passionate about turning ideas into code and building useful, real-world applica
  - **Languages:** Java, C++, C, Python
  - **Backend:** SpringBoot
  - **Databases:** MySQL
- - **Other Tools:** Git/GitHub, REST APIs, Power BI, basic ML  
+ - **Other Tools:** Git/GitHub, REST APIs, Power BI, Machine Learning  
 
 ---
 
