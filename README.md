@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm **Loveesh Singh**, a 4th-year **Software Engineering student at Delhi Technological University** 🚀  
+I'm **Loveesh Singh**, a final-year **Software Engineering student at Delhi Technological University** 🚀  
 Passionate about turning ideas into code and building useful, real-world applications.  
 
 ---
